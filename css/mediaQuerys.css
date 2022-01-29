@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/*MEDIA QUERYS*/
+@media (max-width: 575.98px) { 
+    #area1 {
+        padding: 50px 0px 50px 0px;
+    }
+    .itens-area1 {
+        margin-bottom: 40px;  
+    }
+
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    #area1 {
+        padding: 50px 0px 50px 0px;
+    }
+    .itens-area1 {
+        margin-bottom: 40px;  
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .texto-capa {
+        margin-top: 40px;
+    }
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .texto-capa {
+        margin-top: 60px;
+    }
+}
+@media (min-width: 1200px) { 
+    .texto-capa {
+        margin-top: 60px;
+    }
+
+    #area4 {
+        color: white;
+        background-color: rgb(155, 101, 119);
+        padding: 130px 200px 130px 200px;
+    }
+}
+
